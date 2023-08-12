@@ -37,7 +37,7 @@ python3.8 -m venv env
 source env/bin/activate
 pip install -r requirements.txt
 
-    Заполните файл .env.example и переименуйте в .env.
+    Заполните файл .env.
 
     Запуск:
 
